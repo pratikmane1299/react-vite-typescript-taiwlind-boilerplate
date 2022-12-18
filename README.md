@@ -17,13 +17,13 @@ A [React](https://reactjs.org/) & [Vite](https://vitejs.dev/) boilerplate config
 
 3. Run the application
 ```sh
-	yarn dev
+  yarn dev
 ```
 
 ## Linting
 
 ```sh
-	yarn run lint
+  yarn run lint
 ```
 
 ## Auto fix linting & formatting with prettier
