@@ -1,8 +1,6 @@
-<div align="center">
-	# Vite + React + Typescript + Tailwind boilerplate
+# Vite + React + Typescript + Tailwind boilerplate
 
-	A [React](https://reactjs.org/) & [Vite](https://vitejs.dev/) boilerplate configured with typescript, eslint, prettier, airbnb style guide, tailwindss and husky.
-</div>
+A [React](https://reactjs.org/) & [Vite](https://vitejs.dev/) boilerplate configured with typescript, eslint, prettier, airbnb style guide, tailwindss and husky.
 
 ## Getting Started
 
